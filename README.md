@@ -5,8 +5,12 @@
 ![Ads](https://img.shields.io/badge/Ads-None-5BD68A)
 ![Subscription](https://img.shields.io/badge/Subscription-None-5BD68A)
 
-> A fast, no-nonsense media preparer for karaoke setups. Search YouTube or paste a link, and save **videos, MP3s and background images** straight into your `Local` folders — ready for [SongHub](https://github.com/jpdcs/SongHub-Android) or any karaoke or background-media player.
-> Free to use. Not for sale. No ads. No subscription.
+Get your media karaoke-ready. Fast.
+
+Search YouTube or paste a link to save videos, MP3s, and background images directly into your Local folders.
+Ready for SongHub, your favorite karaoke app, or any background-media player.
+
+Free to use. No ads. No subscriptions. Never for sale.
 
 ## 📲 Download
 
